@@ -1,20 +1,22 @@
-Hi, I'm Abdirizack 👋
+👋 Hi, I'm Abdirizack Abdikadir
 
-Full-stack developer, based in Mogadishu, Somalia — building things I actually need, then sharing them.
+Full-Stack Developer | Computer Science Student | Aspiring Cybersecurity Professional
 
-What I'm building
+I'm passionate about building useful digital solutions and exploring Cybersecurity, Artificial Intelligence, and emerging technologies. My goal is to create applications that solve real-world problems and help people and businesses.
 
-StudyDash(https://studydashapp.com) free student dashboard I built because I kept losing track of my own deadlines. Courses, assignments, a weekly class schedule, a focus timer that survives a locked screen, real push notifications for deadlines, and accounts that keep every student's data private to them.
+🚀 Featured Project
 
-Built solo, end to end: React frontend, Supabase for auth/database/edge functions, real-time push notifications, deployed on Netlify.
+"StudyDash" (https://github.com/abdirizack-dev/studydash) — A student dashboard application designed to support a more organized study experience.
 
-Skills
-Frontend: React, JavaScript, Html, CSS, 
-Backend: Supabase (Postgres, Auth, Edge Functions, Row-Level Security)
-Other: Python, Git,  PHP, MySQL.
-Interests: Full-Stack Development, Cybersecurity, AI, and Technology
+🌐 "Live Demo" (https://studydashapp.com/) | 💻 "Source Code" (https://github.com/abdirizack-dev/studydash)
 
-Find me
-📸 Instagram / LinkedIn: Abdirizack Abdikadir
+🛠️ Technologies & Interests
 
-"I kept losing track of my own deadlines. So I built this."
+- Development: HTML, CSS, JavaScript, PHP, MySQL, Python
+- Interests: Full-Stack Development, Cybersecurity, AI, and Technology
+
+🤝 Let's Connect
+
+I'm open to collaborating with developers, sharing ideas, and building meaningful projects together.
+
+Let's turn ideas into useful technology.
